@@ -1,0 +1,7 @@
+{
+	"imports": {
+		"zod": "https://deno.land/x/zod@v3.21.4/mod.ts",
+		"sift": "https://deno.land/x/sift@0.6.0/mod.ts",
+		"supabase-js": "https://esm.sh/@supabase/supabase-js@2.24.0"
+	}
+}
